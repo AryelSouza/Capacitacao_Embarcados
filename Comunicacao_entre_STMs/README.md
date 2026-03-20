@@ -6,6 +6,8 @@ Este projeto implementa um sistema de comunicação entre duas placas STM32 Nucl
 
 Uma das placas atua como transmissora (STM A) e a outra como receptora (STM B). Foi desenvolvido um protocolo de comunicação próprio, com verificação de erro, mecanismo de confirmação (ACK/NACK) e retransmissão automática, garantindo robustez na transmissão dos dados.
 
+Video de Demonstração: https://www.youtube.com/watch?v=k2SKl36uWvM
+
 ---
 
 ## 🎯 Objetivos
