@@ -1,0 +1,10 @@
+20:10:48 **** Incremental Build of configuration Debug for project Aryelativ2 ****
+make -j32 all 
+arm-none-eabi-size  Aryelativ2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21252	     12	   2004	  23268	   5ae4	Aryelativ2.elf
+Finished building: default.size.stdout
+ 
+
+20:10:48 Build Finished. 0 errors, 0 warnings. (took 136ms)
+
