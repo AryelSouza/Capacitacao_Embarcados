@@ -194,7 +194,7 @@ Projeto desenvolvido para a disciplina de Sistemas Embarcados.
 
 ## 📹 Demonstração
 
-()
+(https://youtu.be/6b0099xZxGs)
 
 ---
 
